@@ -2,14 +2,14 @@
     { "name": "Lost and Found",
         "address": "2 Queen St, Coleraine BT52 1BE",
         "link": "http://wearelostandfound.com/",
-        "longitude": 55.1317998,
-        "latitude": -6.6722492
+        "longitude": -6.6722492,
+        "latitude": 55.1317998
     },
     { "name": "Fidela Coffee Roasters",
         "address": "9, 9a Lower Newmills Rd, Coleraine BT52 2JR",
         "link": "http://www.fidelacoffee.com/",
-        "longitude": 5,
-        "latitude": 2
+        "longitude": -6.6491055,
+        "latitude": 55.1306644
     },
     { "name": "Twilight Coffee & Bunkhouse",
         "address": "54-56 Harbour Rd, Carnlough, Ballymena BT44 0EU",
