@@ -7,42 +7,62 @@
     },
     { "name": "Fidela Coffee Roasters",
         "address": "9, 9a Lower Newmills Rd, Coleraine BT52 2JR",
-        "link": "http://www.fidelacoffee.com/"
+        "link": "http://www.fidelacoffee.com/",
+        "longitude": 5,
+        "latitude": 2
     },
     { "name": "Twilight Coffee & Bunkhouse",
         "address": "54-56 Harbour Rd, Carnlough, Ballymena BT44 0EU",
-        "link": "https://twilightantrimcoast.com/"
+        "link": "https://twilightantrimcoast.com/",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "Blend and Brew",
         "address": "38a Main St, Portglenone, Ballymena BT44 8HP",
-        "link": ""
+        "link": "",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "Boardwalk Social",
         "address": "6 Quay St, Bangor BT20 5ED",
-        "link": ""
+        "link": "",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "CREMA Lisburn",
         "address": "46-48 Market Square, Lisburn BT28 1AG",
-        "link": ""
+        "link": "",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "Trait Coffee",
         "address": "398 Lisburn Rd, Belfast BT9 6GN",
-        "link": ""
+        "link": "",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "Napoleon Coffee",
         "address": "18 Ormeau Ave, Belfast BT2 8HS",
-        "link": ""
+        "link": "",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "HJEM.BELFAST",
         "address": "Unit 2 BA, York St, Belfast BT15 1ED",
-        "link": ""
+        "link": "",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "Neighbourhood Cafe",
         "address": "33 Donegall St, Belfast BT1 2FG",
-        "link": ""
+        "link": "",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "Established Coffee",
         "address": "54 Hill St, Belfast BT1 2LB",
-        "link": "www.established.coffee"
+        "link": "www.established.coffee",
+        "longitude": 3,
+        "latitude": 5
     }
 ]
