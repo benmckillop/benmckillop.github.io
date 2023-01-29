@@ -1,0 +1,46 @@
+[
+    { "name": "Lost & Found",
+        "address": "2 Queen St, Coleraine BT52 1BE",
+        "link": "http://wearelostandfound.com/"
+    },
+    { "name": "Fidela Coffee Roasters",
+        "address": "9, 9a Lower Newmills Rd, Coleraine BT52 2JR",
+        "link": "http://www.fidelacoffee.com/"
+    },
+    { "name": "Twilight Coffee & Bunkhouse",
+        "address": "54-56 Harbour Rd, Carnlough, Ballymena BT44 0EU",
+        "link": "https://twilightantrimcoast.com/"
+    },
+    { "name": "Blend and Brew",
+        "address": "38a Main St, Portglenone, Ballymena BT44 8HP",
+        "link": ""
+    },
+    { "name": "Boardwalk Social",
+        "address": "6 Quay St, Bangor BT20 5ED",
+        "link": ""
+    },
+    { "name": "CREMA Lisburn",
+        "address": "46-48 Market Square, Lisburn BT28 1AG",
+        "link": ""
+    },
+    { "name": "Trait Coffee",
+        "address": "398 Lisburn Rd, Belfast BT9 6GN",
+        "link": ""
+    },
+    { "name": "Napoleon Coffee",
+        "address": "18 Ormeau Ave, Belfast BT2 8HS",
+        "link": ""
+    },
+    { "name": "HJEM.BELFAST",
+        "address": "Unit 2 BA, York St, Belfast BT15 1ED",
+        "link": ""
+    },
+    { "name": "Neighbourhood Cafe",
+        "address": "33 Donegall St, Belfast BT1 2FG",
+        "link": ""
+    },
+    { "name": "Established Coffee",
+        "address": "54 Hill St, Belfast BT1 2LB",
+        "link": "www.established.coffee"
+    }
+]
