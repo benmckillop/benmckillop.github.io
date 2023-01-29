@@ -1,7 +1,9 @@
 [
-    { "name": "Ryans place",
+    { "name": "Lost and Found",
         "address": "2 Queen St, Coleraine BT52 1BE",
-        "link": "http://wearelostandfound.com/"
+        "link": "http://wearelostandfound.com/",
+        "longitude": 3,
+        "latitude": 5
     },
     { "name": "Fidela Coffee Roasters",
         "address": "9, 9a Lower Newmills Rd, Coleraine BT52 2JR",
